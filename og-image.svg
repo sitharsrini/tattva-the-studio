@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D2426"/>
+      <stop offset="100%" stop-color="#1A3A3E"/>
+    </linearGradient>
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#47BEC8"/>
+      <stop offset="100%" stop-color="#2AA4B0"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- Decorative circles -->
+  <circle cx="1050" cy="100" r="220" fill="#47BEC8" opacity="0.06"/>
+  <circle cx="150" cy="530" r="180" fill="#47BEC8" opacity="0.05"/>
+  <!-- Top teal line -->
+  <rect x="80" y="0" width="1040" height="3" rx="2" fill="url(#teal)" opacity="0.6"/>
+  <!-- Logo mark -->
+  <ellipse cx="600" cy="195" rx="80" ry="78" fill="#47BEC8" opacity="0.18"/>
+  <ellipse cx="600" cy="195" rx="72" ry="70" fill="none" stroke="#47BEC8" stroke-width="1.5" opacity="0.4"/>
+  <!-- Lotus petals -->
+  <path d="M600 148 C572 156 558 176 563 200 C575 188 587 176 600 172 Z" fill="#47BEC8" opacity="0.9"/>
+  <path d="M600 148 C628 156 642 176 637 200 C625 188 613 176 600 172 Z" fill="#47BEC8" opacity="0.9"/>
+  <path d="M584 200 C588 214 593 220 600 228 C607 220 612 214 616 200 C612 204 600 206 588 202 Z" fill="#47BEC8" opacity="0.85"/>
+  <circle cx="600" cy="170" r="5" fill="white" opacity="0.6"/>
+  <!-- Brand name -->
+  <text x="600" y="310" font-family="Georgia,serif" font-size="96" font-weight="300" fill="white" text-anchor="middle" letter-spacing="18" opacity="0.95">tattva</text>
+  <!-- Trademark -->
+  <text x="756" y="278" font-family="Arial,sans-serif" font-size="24" fill="white" opacity="0.6">™</text>
+  <!-- Divider -->
+  <rect x="480" y="328" width="240" height="1" fill="#47BEC8" opacity="0.5"/>
+  <!-- Subtitle -->
+  <text x="600" y="368" font-family="Arial,sans-serif" font-size="18" font-weight="500" fill="#47BEC8" text-anchor="middle" letter-spacing="10">THE STUDIO</text>
+  <!-- Tagline -->
+  <text x="600" y="430" font-family="Georgia,serif" font-size="24" font-weight="300" fill="white" text-anchor="middle" letter-spacing="2" opacity="0.6">Yoga &amp; Dance  ·  Dubai  ·  Chennai  ·  Singapore</text>
+  <!-- Bottom URL -->
+  <text x="600" y="560" font-family="Arial,sans-serif" font-size="16" fill="#47BEC8" text-anchor="middle" letter-spacing="3" opacity="0.7">tattvathestudio.com</text>
+</svg>
